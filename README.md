@@ -13,9 +13,9 @@ Este repositorio contiene un ejercicio para evaluar tus conocimientos de CSS res
 
 ## Resultado Esperado
 
-- [para desktop 💻](./_doc/CSSPRUEBALARGE.png)
-- [para tablet ](./_doc/CSSPRUEBATABLET.png)
-- [para movil 📱 ](./_doc/CSSPRUEBAMOVIL.png)
+- [para desktop 💻](__doc/CSSPRUEBALARGE.png)
+- [para tablet ](__doc/CSSPRUEBATABLET.png)
+- [para móvil 📱 ](__doc/CSSPRUEBAMOVIL.png)
 
 ## Instrucciones
 
