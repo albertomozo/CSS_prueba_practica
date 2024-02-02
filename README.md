@@ -9,12 +9,12 @@ Este repositorio contiene un ejercicio para evaluar tus conocimientos de CSS res
 
 ## Estructura del Repositorio
 
-- **`_doc`**: Contiene capturas de pantalla de la web en diferentes tamaños de pantalla.
+- 📁**`_doc`**: Contiene capturas de pantalla de la web en diferentes tamaños de pantalla.
 - **`css/styles.css`**: Archivo CSS que debes completar para obtener el resultado deseado.
-- **`icon`**: Imagenes SVG para el Logo.
-- **`img`**: Imagenes SVG, PNG y JPG para el diseño.
-- examen.html : página html con la estructura básica.
-- README.md : el codigo en markdown de este fichero.
+- 📁**`icon`**: Imagenes SVG para el Logo.
+- 📁**`img`**: Imagenes SVG, PNG y JPG para el diseño.
+- **`examen.html`** : página html con la estructura básica.
+- **`README.md '**': el codigo en markdown de este fichero.
 
 ## Resultado Esperado
 
