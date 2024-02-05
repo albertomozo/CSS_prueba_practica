@@ -9,12 +9,12 @@ Este repositorio contiene un ejercicio para evaluar tus conocimientos de CSS res
 
 ## Estructura del Repositorio
 
-- **`_doc`** : 📁 Contiene capturas de pantalla de la web en diferentes tamaños de pantalla.
+- **`_doc`**: Contiene capturas de pantalla de la web en diferentes tamaños de pantalla.
 - **`css/styles.css`**: Archivo CSS que debes completar para obtener el resultado deseado.
-- **`icon`** : 📁Imagenes SVG para el Logo.
-- **`img`** : 📁Imagenes SVG, PNG y JPG para el diseño.
-- **`examen.html`** : página html con la estructura básica.
-- **`README.md '**': el codigo en markdown de este fichero.
+- **`icon`**: Imagenes SVG para el Logo.
+- **`img`**: Imagenes SVG, PNG y JPG para el diseño.
+- examen.html : página html con la estructura básica.
+- README.md : el codigo en markdown de este fichero.
 
 ## Resultado Esperado
 
@@ -24,11 +24,11 @@ Este repositorio contiene un ejercicio para evaluar tus conocimientos de CSS res
 
 ## Instrucciones
 
-1. Clona este repositorio: `git clone https://github.com/albertomozo/CSS_prueba_practica.git`.
+1. Clona este repositorio: `git clone https://github.com/albertomozo/CSS_prueba_practica.git` o descarga  el repositorio (download ZIP)
 2. Abre el archivo `css/styles.css`.
 3. Completa el código CSS según las especificaciones del ejercicio.
 4. Verifica el resultado utilizando las capturas de pantalla proporcionadas.
-5. Se puede modificar el contenido del fichero examen.html, añadiendo clases, etiquetas.  Se debe evitar usar estilos en las etiquetas.
+5. Se puede modificar el contenido del fichero examen.html y styles.css, añadiendo clases, etiquetas.  Se debe evitar usar estilos en linea en las etiquetas.
 
 ## Ejemplo de Uso
 
